@@ -1,0 +1,39 @@
+
+# data files
+
+data/
+
+*.csv
+
+*.nc
+
+*.h5
+
+*.hdf
+
+*.pkl
+
+
+
+# output/log files
+
+*.out
+
+*.err
+
+*.log
+
+
+
+# python cache
+
+__pycache__/
+
+.ipynb_checkpoints/
+
+
+
+# system files
+
+.DS_Store
+
